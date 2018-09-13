@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./client/src/styles/app.scss?9463"],"names":[],"mappings":"AAAA,MACE","file":"styles/bundle.css","sourcesContent":[":root {\n  color: red;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./client/src/styles/app.scss"],"sourceRoot":""}

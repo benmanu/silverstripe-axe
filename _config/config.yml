@@ -1,0 +1,10 @@
+---
+Name: axe
+After: framework/routes#coreroutes
+---
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - SilverStripe\Axe\Extensions\AxeSiteTreeExtension
+SilverStripe\CMS\Controllers\CMSMain:
+  extensions:
+    - SilverStripe\Axe\Extensions\AxeCMSMainExtension

@@ -1,4 +1,4 @@
-# silverstripe-axe
+# silverstripe-axe [WIP]
 
 SilverStripe CMS accessibility auditing tool.
 
